@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="jar://C:/android-sdk/extras/android/m2repository/com/android/support/support-v4/22.1.1/support-v4-22.1.1-sources.jar!/android/support/v4/view/ViewPager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/activity/CollectNewsInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/activity/NewsDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/NewsActionBarAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/NewsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/OtherChannelAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/TopViewPageAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/UserChannelAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/adapter/ViewAnimationAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/bean/ChannelItemModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/bean/NewsDetailModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/customview/ActionBarView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/dao/ChannelManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/fragments/MainFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/getContent/GetNewsContent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/eNews/getContent/GetNewsDetailContent.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
